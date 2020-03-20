@@ -19,8 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.arvita.crudvolley.InsertData" />
-        <activity android:name="com.arvita.crudvolley.Delete"></activity>
+        <activity android:name="com.arvita.crudvolley.InsertData"/>
+        <activity android:name="com.arvita.crudvolley.Delete"/>
     </application>
 
 </manifest>
